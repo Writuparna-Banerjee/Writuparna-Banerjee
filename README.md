@@ -4,9 +4,8 @@
 <h4>I am looking for challenges, innovation and a desire to break away from the regular through skilled leadership. With a passion in coding, I am focused on bridging the gap between electrical machines and machine learning. I have a keen interest in Machine Learning, Data Science, Deep Learning, and Web Development.</h4>
 
 
-**Reach me on:**
-
-<h5>
+<h5>Reach me on:
+  
 - My profile in <a href="https://www.linkedin.com/in/writuparna-banerjee-b9193416b/">LinkedIn</a> 💼 
 - My website <a href="https://sites.google.com/view/writuparnabanerjee">Writuparna.info</a> 📹 ✍🏾
 - My technical blogs in <a href="https://medium.com/@writuparnabanerjee">Medium</a> 🏓
