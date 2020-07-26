@@ -15,6 +15,9 @@
 
 ![Writuparna's github stats](https://github-readme-stats.vercel.app/api?username=Writuparna-Banerjee&show_icons=true&theme=radical)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Writuparna-Banerjee&layout=compact&show_icons=true&theme=radical)
+
 🔭 *I’m currently working on* - **Data Science & Machine Learning.**
 
 🌱 *I’m currently learning* - **Deep learning, NLP, Computer Vision & Full-Stack web development.**
