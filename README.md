@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/59050251/88485752-0db17880-cf96-11ea-986c-b04d35d86beb.jpeg" width="200" height="200" style="float:left">
+<h1>Hi, I'm Writuparna 👋👩‍💻</h1>
 
 <!--
 **Writuparna-Banerjee/Writuparna-Banerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
