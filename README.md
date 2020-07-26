@@ -5,15 +5,24 @@
 
 <h5>Reach me on:
   
-- My LinkedIn Profile <a href="https://www.linkedin.com/in/writuparna-banerjee-b9193416b/">LinkedIn</a> 💼 
+- My profile in <a href="https://www.linkedin.com/in/writuparna-banerjee-b9193416b/">LinkedIn</a> 💼 
 - My website <a href="https://sites.google.com/view/writuparnabanerjee">Writuparna.info</a> 📹 ✍🏾
-- Tech Blogging in <a href="https://medium.com/@writuparnabanerjee">Medium</a> 🏓
+- My technical blogs in <a href="https://medium.com/@writuparnabanerjee">Medium</a> 🏓
 - My contribution in Data Science in <a href="https://www.kaggle.com/writuparnabanerjee">Kaggle</a>🖥💻
 - My updates in <a href="https://twitter.com/WrituparnaB/">Twiiter</a> 💬</h5>
 
 **My Github stats**
 
 ![Writuparna's github stats](https://github-readme-stats.vercel.app/api?username=Writuparna-Banerjee&show_icons=true&theme=radical)
+
+🔭 *I’m currently working on* - **Data Science & Machine Learning.**
+
+🌱 *I’m currently learning* - **Deep learning, NLP, Computer Vision & Full-Stack web development.**
+
+👯 *I’ve recently worked with start-up companies like* - **mywbut.com as Campus Representative**
+
+😄 *Words that describe me* - **Self-motivated, Focused, Hardworking & Perfectionist.**
+
 <!--
 **Writuparna-Banerjee/Writuparna-Banerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
